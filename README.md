@@ -6,9 +6,9 @@
 <h3 align="left">You can find me on:</h3>
 
 <p align="left">
-  <a href="https://www.facebook.com/kristian.hristov.1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kristian.hristov.1997/" height="30" width="40" /> Facebook</a>
+  <a href="https://www.facebook.com/kristian.hristov.1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kristian.hristov.1997/" height="30" width="40" /> Facebook</a> <a href="https://www.linkedin.com/in/kristian-hristov-50a6b9265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kristian-hristov-50a6b9265/" height="30" width="40" /> LinkedIn</a>
 
-  <a href="https://www.instagram.com/kristian_h1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kristian_h1997/" height="30" width="40" /> Instagram</a>
+  <a href="https://www.instagram.com/kristian_h1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kristian_h1997/" height="30" width="40" /> Instagram</a> <a href="https://github.com/cristov7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/cristov7" height="30" width="40" /> GitHub</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
