@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kristian+Hristov!;" /> </h1>
 
-<h3 align="center">  Software Engineer - Python Web Developer</h3>
+<h3 align="center">    Software Engineer - Python Web Developer</h3>
 
 <img align="right" alt="coding" width="570" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZybHV0bWdjazd1eWdnNGw2aHExOGhpNG5vcTJldnlha2JnMnlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
