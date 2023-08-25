@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer - Python Web Developer</h3>
 
-<img align="right" alt="coding" width="575" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZybHV0bWdjazd1eWdnNGw2aHExOGhpNG5vcTJldnlha2JnMnlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="570" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZybHV0bWdjazd1eWdnNGw2aHExOGhpNG5vcTJldnlha2JnMnlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">You can find me on:</h3>
 
